@@ -7,3 +7,6 @@ RUN_REFCASE, RUN_START_DATE: https://esmci.github.io/cime/versions/master/html/u
 Site simulation Tutorial: https://www.cgd.ucar.edu/events/2019/ctsm/files/practical4-wieder.pdf
 
 Convert CO2 ppm to grams of C--> 1 ppm CO2 == 2.134 Peta gram (10^15 g) : http://how-it-looks.blogspot.com/2011/07/petagrams-of-carbon.html
+
+CTSM regional run setup:
+https://github.com/ESCOMP/CTSM/pull/1892
