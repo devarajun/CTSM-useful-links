@@ -15,6 +15,6 @@ https://github.com/ESCOMP/CTSM/pull/1892
 
 **Porting CIME on new machines:**
 
-    https://www.youtube.com/watch?v=G7pdMCUZfd0
+ https://www.youtube.com/watch?v=G7pdMCUZfd0
 
-    http://esmci.github.io/cime/versions/maint-5.6/html/users_guide/porting-cime.html
+ http://esmci.github.io/cime/versions/maint-5.6/html/users_guide/porting-cime.html
