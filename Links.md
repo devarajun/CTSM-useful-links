@@ -22,3 +22,7 @@ https://github.com/ESCOMP/CTSM/pull/1892
 **CESM (CIME) grid (resolution) description**
 
 https://esmci.github.io/cime/versions/master/html/users_guide/grids.html
+
+**PES_LAYOUT, THREADS etc**
+
+https://studylib.net/doc/9767218/cesm1_tutorial_130619_full
