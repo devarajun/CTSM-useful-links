@@ -18,3 +18,7 @@ https://github.com/ESCOMP/CTSM/pull/1892
  https://www.youtube.com/watch?v=G7pdMCUZfd0
 
  http://esmci.github.io/cime/versions/maint-5.6/html/users_guide/porting-cime.html
+
+**CESM (CIME) grid (resolution) description**
+
+https://esmci.github.io/cime/versions/master/html/users_guide/grids.html
