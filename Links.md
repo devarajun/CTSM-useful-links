@@ -26,3 +26,7 @@ https://esmci.github.io/cime/versions/master/html/users_guide/grids.html
 **PES_LAYOUT, THREADS etc**
 
 https://studylib.net/doc/9767218/cesm1_tutorial_130619_full
+
+**High resolution CESM performance**
+
+https://gmd.copernicus.org/preprints/gmd-2020-18/gmd-2020-18.pdf
