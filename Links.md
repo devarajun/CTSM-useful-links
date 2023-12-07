@@ -27,6 +27,10 @@ https://esmci.github.io/cime/versions/master/html/users_guide/grids.html
 
 https://studylib.net/doc/9767218/cesm1_tutorial_130619_full
 
+**Crop types in CTSM**
+https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Crop_Irrigation/CLM50_Tech_Note_Crop_Irrigation.html
+
+
 **High resolution CESM performance**
 
 https://gmd.copernicus.org/preprints/gmd-2020-18/gmd-2020-18.pdf
